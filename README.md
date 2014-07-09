@@ -1,7 +1,7 @@
 example-colorguard
 ===================
 
-> This example refers to the article on [nodejitsu.com][1] and reposted on [npmawesome.com][2] about [colorguard][3].
+This example refers to the article on [nodejitsu.com][1] and reposted on [npmawesome.com][2] about [colorguard][3].
 
 ## Usage
 
