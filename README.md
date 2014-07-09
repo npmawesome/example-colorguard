@@ -1,7 +1,7 @@
 example-colorguard
 ===================
 
-> This example refers to the article on [nodejitsu.com][1] and reposted on [npmawesome.com][2].
+> This example refers to the article on [nodejitsu.com][1] and reposted on [npmawesome.com][2] about [colorguard][3].
 
 ## Usage
 
@@ -23,3 +23,4 @@ If you have questions, feel free to leave a comments!
 
 [1]: http://...
 [2]: http://...
+[3]: https://github.com/SlexAxton/css-colorguard
