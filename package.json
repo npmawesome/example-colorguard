@@ -1,0 +1,6 @@
+{
+  "name": "example-colorguard",
+  "dependencies": {
+    "colorguard": "^0.1.6"
+  }
+}
