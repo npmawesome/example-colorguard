@@ -21,6 +21,6 @@ Profit!
 
 If you have questions, feel free to leave a comments!
 
-[1]: http://...
-[2]: http://...
+[1]: http://blog.nodejitsu.com/npmawesome-keep-colors-sane-in-your-css-files-with-colorguard/
+[2]: http://npmawesome.com/posts/2014-07-09-colorguard/
 [3]: https://github.com/SlexAxton/css-colorguard
